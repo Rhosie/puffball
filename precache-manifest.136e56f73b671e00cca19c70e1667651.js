@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57778cabbf21ab33a0e28aeddea01b9c",
+    "revision": "0fce5e27915c4cacaf90af5531e0ecbc",
     "url": "/puffball/index.html"
   },
   {
-    "revision": "259aa36b40c78e36b2e4",
+    "revision": "5cbc5470b58999e45cda",
     "url": "/puffball/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/puffball/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "259aa36b40c78e36b2e4",
-    "url": "/puffball/static/js/main.e1360b2c.chunk.js"
+    "revision": "5cbc5470b58999e45cda",
+    "url": "/puffball/static/js/main.561daa20.chunk.js"
   },
   {
     "revision": "0b4297e204c7f18510f1",
