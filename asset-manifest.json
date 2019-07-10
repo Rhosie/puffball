@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/puffball/static/css/main.2cce8147.chunk.css",
+    "main.js": "/puffball/static/js/main.e1360b2c.chunk.js",
+    "main.js.map": "/puffball/static/js/main.e1360b2c.chunk.js.map",
+    "runtime~main.js": "/puffball/static/js/runtime~main.740690bb.js",
+    "runtime~main.js.map": "/puffball/static/js/runtime~main.740690bb.js.map",
+    "static/js/2.b41502e9.chunk.js": "/puffball/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/puffball/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/puffball/index.html",
+    "precache-manifest.ce777a8c5dd14a8923f9dc3c84f1cefa.js": "/puffball/precache-manifest.ce777a8c5dd14a8923f9dc3c84f1cefa.js",
+    "service-worker.js": "/puffball/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/puffball/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/puffball/static/media/logo.5d5d9eef.svg"
+  }
+}
