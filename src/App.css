@@ -22,12 +22,9 @@
 .pigpink {
   color: #FFC0CB;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.imgbox {
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-image: url("https://cdn.discordapp.com/attachments/355381910937141249/601484838158991360/pignotepad.jpg");
 }
