@@ -1,19 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Felix is a trap and traps are gay.
+      
+       
+        <p style={{fontSize:"50px"}} className = "pigpink">
+          Pigs are the best!
         </p>
       
-        <img src="images/pignotepad.jpg"/>
+        <img src="images/pignotepad.jpg" style={{maxHeight:"100vh"}}/>
         
-      </header>
+      
     </div>
   );
 }
