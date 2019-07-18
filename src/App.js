@@ -11,7 +11,7 @@ function App() {
           Felix is a trap and traps are gay.
         </p>
       
-        <img src="/images/necky.jpeg"/>
+        <img src="images/pignotepad.jpg"/>
         
       </header>
     </div>
