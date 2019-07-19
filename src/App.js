@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {Button} from '@material-ui/core'
 import './App.css';
 function App() {
   return (
@@ -9,7 +9,12 @@ function App() {
         <p style={{fontSize:"50px"}} className = "pigpink">
           Pigs are the best!
         </p>
-      
+        <p >
+        Welcome to this page!
+        </p>
+      <Button variant="outlined" color="secondary" >
+          About this page
+      </Button>
         
         
       </div>
@@ -18,3 +23,4 @@ function App() {
 }
 
 export default App;
+
