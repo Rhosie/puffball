@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfc9781f7a1a497273c2e118b91582d1",
+    "revision": "a60160b604c38d1c33b0807f3ffe78f9",
     "url": "/puffball/index.html"
   },
   {
