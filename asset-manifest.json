@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/puffball/static/css/main.2cce8147.chunk.css",
-    "main.js": "/puffball/static/js/main.561daa20.chunk.js",
-    "main.js.map": "/puffball/static/js/main.561daa20.chunk.js.map",
+    "main.css": "/puffball/static/css/main.06015b8b.chunk.css",
+    "main.js": "/puffball/static/js/main.299da91e.chunk.js",
+    "main.js.map": "/puffball/static/js/main.299da91e.chunk.js.map",
     "runtime~main.js": "/puffball/static/js/runtime~main.740690bb.js",
     "runtime~main.js.map": "/puffball/static/js/runtime~main.740690bb.js.map",
-    "static/js/2.b41502e9.chunk.js": "/puffball/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/puffball/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.c3897e55.chunk.js": "/puffball/static/js/2.c3897e55.chunk.js",
+    "static/js/2.c3897e55.chunk.js.map": "/puffball/static/js/2.c3897e55.chunk.js.map",
     "index.html": "/puffball/index.html",
-    "precache-manifest.95a444388709913a8ca365749b5d71ae.js": "/puffball/precache-manifest.95a444388709913a8ca365749b5d71ae.js",
+    "precache-manifest.745cc8f689fb79570c34aa9c8a7095cd.js": "/puffball/precache-manifest.745cc8f689fb79570c34aa9c8a7095cd.js",
     "service-worker.js": "/puffball/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/puffball/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/puffball/static/media/logo.5d5d9eef.svg"
+    "static/css/main.06015b8b.chunk.css.map": "/puffball/static/css/main.06015b8b.chunk.css.map"
   }
 }
