@@ -2,7 +2,6 @@ import React from 'react'
 import { Button } from '@material-ui/core'
 import './App.css'
 function App() {
-    yn
     return (
         <div className="App">
             <div className="imgbox">
